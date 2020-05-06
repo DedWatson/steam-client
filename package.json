@@ -1,5 +1,5 @@
 {
-	"name": "steam-client",
+	"name": "@dedwatson/steam-client",
 	"version": "2.5.8",
 	"description": "SteamClient from node-steam with proper versioning and more features",
 	"keywords": [
@@ -12,9 +12,8 @@
 	},
 	"license": "MIT",
 	"author": {
-		"name": "Alexander Corn",
-		"email": "mckay@doctormckay.com",
-		"url": "https://www.doctormckay.com"
+		"name": "Kirill Kuznetsov",
+		"email": "kuznetsov.kd.dev@gmail.com"
 	},
 	"contributors": [
 		{
@@ -24,7 +23,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/DoctorMcKay/node-steam-client.git"
+		"url": "https://github.com/DedWatson/node-steam-client.git"
 	},
 	"dependencies": {
 		"@doctormckay/steam-crypto": "^1.2.0",
